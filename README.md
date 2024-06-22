@@ -1,1 +1,5 @@
 # CODSOFT
+Java Programming Internship
+
+TASK 1: NUMBER GAME
+TASK 2: STUDENT GRADE CALCULATOR
