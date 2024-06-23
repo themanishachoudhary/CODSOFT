@@ -1,6 +1,5 @@
 # CODSOFT
 Java Programming Internship
-
 <P>
 TASK 1: NUMBER GAME
 <br>
